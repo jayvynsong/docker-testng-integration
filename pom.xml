@@ -18,16 +18,16 @@
 
 	<developers>
 		<developer>
-			<id>bazhenov</id>
-			<name>Denis Bazhenov</name>
-			<email>dotsid@gmail.com</email>
+			<id>jayvynsong</id>
+			<name>Jayvyn Song</name>
+			<email></email>
 		</developer>
 	</developers>
 
 	<scm>
-		<url>git@github.com:bazhenov/docker-testng-integration.git</url>
-		<connection>scm:git:git@github.com:bazhenov/docker-testng-integration.git</connection>
-		<developerConnection>scm:git:git@github.com:bazhenov/docker-testng-integration.git</developerConnection>
+		<url>git@github.com:jayvynsong/docker-testng-integration.git</url>
+		<connection>scm:git:git@github.com:jayvynsong/docker-testng-integration.git</connection>
+		<developerConnection>scm:git:git@github.com:jayvynsong/docker-testng-integration.git</developerConnection>
 	</scm>
 
 	<licenses>
